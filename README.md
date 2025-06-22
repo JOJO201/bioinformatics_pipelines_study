@@ -7,3 +7,13 @@ We  analyzed 1,000 developer-reported issues
 from these repositories to build a taxonomy for the pipeline maintenance difficulties.
 We also benchmarked large language models on pipeline-related tasks to assess their effectiveness in supporting pipeline development and debugging. 
 From these analyses, we distilled some key lessons to guide further research and actions in aiding developers with bioinformatics pipeline development.
+
+This study provides a structured investigation into bioinformatics pipeline challenges by integrating user discussions, real-world code analysis,  developer-reported issues and empiricial evaluation with LLMs. The key contributions of this work are:
+
+\begin{itemize}
+    \item We develop a comprehensive taxonomy of bioinformatics pipeline challenges through systematic analysis of user discussions from online forums.
+    \item We analyze real-world bioinformatics pipeline repositories to uncover key features, design patterns, and best practices in contemporary pipeline development.
+    \item We systematically examine developer-reported issues from these repositories to identify the practical difficulties and bottlenecks developers face in real-world pipeline maintenance.
+    \item We conduct the first empirical evaluation of large language models (LLMs) for supporting  bioinformatics pipeline development.
+    \item We discuss actionable implications and future work for developers and distill some key lessons to guide further research.
+\end{itemize}

@@ -17,13 +17,13 @@ This study provides a structured investigation into bioinformatics pipeline chal
 
 In this study, we try to answer four research questions, including:
 
-# 1. What aspects of pipelines are discussed by users in online forums? 
+ 1. What aspects of pipelines are discussed by users in online forums? 
 
-# 2. What key features and characteristics are prevalent in bioinformatics pipeline codebases? 
+ 2. What key features and characteristics are prevalent in bioinformatics pipeline codebases? 
 
-# 3. What are the common issues and considerations faced by developers when maintaining and improving bioinformatics pipelines? 
+ 3. What are the common issues and considerations faced by developers when maintaining and improving bioinformatics pipelines? 
 
-# 4. How well do  LLMs support the bioinformatics pipelines development?
+ 4. How well do  LLMs support the bioinformatics pipelines development?
 
 RQ1 explores user-reported challenges and needs, RQ2 examines how these are reflected in actual pipeline implementations, RQ3 uncovers practical difficulties faced during pipeline maintenance, and RQ4 evaluates whether modern LLMs can assist in addressing these challenges. 
 
